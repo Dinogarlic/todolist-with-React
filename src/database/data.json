@@ -1,0 +1,29 @@
+{
+  "todoItems": [
+    {
+      "id": "a10c",
+      "todo": "밥먹기",
+      "isDone": false
+    },
+    {
+      "id": "a10b",
+      "todo": "설거지하기",
+      "isDone": false
+    },
+    {
+      "id": "632b",
+      "todo": "공부하기",
+      "isDone": false
+    },
+    {
+      "id": "242a",
+      "todo": "씻기",
+      "isDone": false
+    },
+    {
+      "id": "431e",
+      "todo": "택배찾기",
+      "isDone": false
+    }
+  ]
+}
